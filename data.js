@@ -56,18 +56,18 @@ const attendanceData = {
         password: "@CEsec",
         themeColor: "green",
         students: [
-            "Aditya Sharma", "Agamdeep Singh", "Agampal Singh", "Akarshak Rajput", "Amuldeep Kaur", "Anchladeep Kaur",
-            "Anmol Singh", "Artaj Singh Dhillon", "Bhavishya Sharma", "Bhumi", "Danishpreet Singh", "Dhruv Puri",
-            "Diya Sharma", "Gautam Prashar", "Gurleen Kaur", "Gurnoor Kaur", "Gursagar Singh", "Hardik Gupta", "Harleen Kaur",
-            "Harpreet Kaur", "Harshit Maini", "Harshot Singh", "Harsimranjeet Singh Uppal", "Hemen Gopal", "Ishrat Sandhu",
-            "Jasmine Kaur", "Jasvin Kaur Sachdeva", "Jespeeya Kaur", "Karandip Singh", "Kartik Sethi", "Kayna Arora",
-            "Khushrose Dhillon", "Kulejet Kaur", "Kulraj Singh", "Lovenoor Singh Rataul", "Manarsh Singh Bhullar", "Manbir Singh",
-            "Manreet Kaur", "Manya Sharma", "Megha", "Megha", "Mukund Kumar", "Navjot Kaur", "Navjot Kaur Mahal",
-            "Nishandeep Singh", "Pankhuri", "Parneet Kaur", "Piyush Kumar", "Prabhajpi Kaur", "Pratham Vinayak", "Pushkar Kalra",
-            "Riana Kakkar", "Rishita Khanna", "Saksham Arora", "Samyak", "Sanica Dhawan", "Savinay Bedi", "Sehajbir Singh",
-            "Shreyaaditya Chilllar", "Shira Sharma", "Simarjit Singh", "Suhani Arora", "Sunandita Menon", "Suraj Gautam",
-            "Tanveer Kaur", "Vaibhav Mahajan", "Vaibhav Nanda", "Vaibhav Sharma", "Yashika", "Yuvraj Sharma", "Srishti",
-            "Gursidakeep Singh", "Parth Sareen", "Hargun Singh"
+             "Aditya Sharma",    "Agamdeep Singh",    "Agampal Singh",    "Akarshak Rajput",    "Amuldeep Kaur",    "Anchaldeep Kaur", 
+            "Anjodh Singh",    "Artaj Singh Dhillon",    "Bhavishya Sharma",    "Bhumi",    "Danishpreet Singh",    "Dhruv Puri",  
+            "Diya Sharma",    "Gautam Prashar",    "Gurleen Kaur",    "Gurnoor Kaur",    "Gursagar Singh",    "Hardik Gupta",   
+            "Harleen Kaur",    "Harpuneet Kaur",    "Harshit Maini",    "Harshjot Singh",    "Harsimarjeet Singh Uppal",    "Hemen Gopal",  
+            "Ishrat Sandhu",    "Jasmine Kaur",    "Jasvin Kaur Sachdeva",    "Jespeeya Kaur",    "Karandip Singh",    "Kartik Sethi",  
+            "Kayna Arora",    "Kuljeet Kaur",    "Kulraj Singh",    "Lovenoor Singh Rataul",    "Manarsh Singh Bhullar",    "Manbir Singh",
+            "Manreet Kaur",    "Manya Sharma",    "Megha",    "Megha",    "Mukund Kumar",    "Navjot Kaur",    "Navjot Kaur Mahal", 
+            "Nishandeep Singh",    "Pankhuri",    "Parneet Kaur",    "Piyush Kumar",    "Prabhjapji Kaur",    "Pushkar Kalra", 
+            "Riana Kakkar",    "Rishita Khanna",    "Saksham Arora",    "Samyak",    "Sanica Dhawan",    "Savinay Bedi", 
+            "Sehajbir Singh",    "Sehajbir Singh",    "Shreyaditya Chhillar",    "Shria Sharma",    "Simarjit Singh",    "Suhani Arora",
+            "Sunandita Menon",    "Suraj Gautam",    "Tanveer Kaur",    "Vaibhav Mahajan",    "Vaibhav Nanda",    "Vibhav Sharma",  
+            "Yashika",    "Yuvraj Sharma",    "Srishti",    "Gursidakeep Singh",    "Parth Sareen",    "Hargun Singh",    "Janvi",    "Guransh singh"
         ]
     },
     'AiR': {
@@ -75,26 +75,22 @@ const attendanceData = {
     password: "@AIRsec",
     themeColor: "purple",
     students: [
-        "ANKITA RANI", "ANSHMEET KAUR", "ARMAN SINGH", "ARMANDEEP SINGH", "ARSHDEEP SINGH", "ARSHNOOR KAUR", 
-        "ARYAN PRINJA", "ARYAN SHARMA", "ASHMEET SINGH", "CHANDANDEEP SINGH", "CHARANJIT KAUR", "CHITSIMRAN KAUR", 
-        "DAVINDER SINGH", "DEVANSH", "DEVSHI KHOSLA", "DHRUV SHARMA", "DIKSHA", "DIVPREET KAUR", "EKNOOR KAUR", 
-        "GAGANDEEP KAUR", "HARMANPREET KAUR", "HARNOOR KAUR", "HARSHDEEP SINGH", "HIMANSHU GUPTA", "HIMANSHU SAINI", 
-        "ISHIKA", "JAPNEET KAUR", "JASKARAN SINGH", "JASMEEN KAUR", "JASNEHPREET KAUR", "JOBANPREET SINGH", 
-        "KESHAV SHARMA", "KHUSHI", "KHUSHI", "KHUSHI", "KHUSHI AGGARWAL", "KHUSHPREET SINGH", "KIRANJOT KAUR", 
-        "KOMALPREET KAUR", "KRITIKA", "KUMARI ANJALI", "KUNWAR PARTAP SINGH", "MANINDER SINGH", "MANMEET KAUR", 
-        "MANNAT SHARMA", "MANPREET KAUR", "MANPREET SINGH", "MANVEER KAUR", "MEHAKPREET KAUR", "MILANPREET KAUR", 
-        "MOHD AMAAN", "MUSKAN", "MUSKAN SAINI", "NAVDEEP KAUR", "NAVNEET", "NEELAM DEVI", "NIMRAT KAUR", 
-        "NIRMAL SINGH", "NIRWAIR SINGH", "NISHA KUMARI", "NOORDEEP SINGH", "PARAS", "PARMINDER SINGH", 
-        "PARTAP SINGH", "PRABHJEET SINGH", "PRABHJOT", "PRABHJOT SINGH", "PRABHSIMRAT SINGH", "PRIYANJALI", 
-        "RAGHUVANSH", "RAHUL", "RAJANPREET SINGH", "RAJVEER KAUR", "RAMANDEEP KAUR", "RAMANPREET KAUR", 
-        "ROHIT KUMAR", "SAHIL KUMAR", "SAKSHAM", "SAMARJEET SINGH", "SAMARTH", "SAMEEKSHA", "SANDEEP KAUR", 
-        "SANDEEP SINGH", "SANEHAL", "SARVGUN", "SEEMA", "SEHAJDEEP KAUR", "SHIVAM SHARMA", "SHUBHDEEP KAUR", 
-        "SHUBHNEET KAUR", "SIMRAN", "SIMRAN KUMARI", "SIMRANJEET KAUR", "SNEHA", "SUMIT SHARMA", "SUPRIYA", 
-        "SUREKHA", "TANIA", "TANISH SHARMA", "TANISHA GUPTA", "TANVEER SINGH", "TANVI", "TARANPREET SINGH", 
-        "TARUN KUMAR", "TUSHAR", "VANSHIKA", "VANSHITA", "VICKY", "VIDHUSHI SHARMA", "YASHIKA", "YUVRAJ SINGH"
+       ["ANKITA RANI", "ANKUSH KAUR", "ARMAN SINGH", "ARMANPREET SINGH", "ARSHDEEP SINGH", "ARSHNOOR KAUR", "ARVIND KAUR", "ARYAN SHARMA",
+        "BHAVYA GOYAL", "CHANDEEP SINGH", "CHANDEEP SINGH", "CHITSIMRAN KAUR", "DAMANPREET KOR", "DEVANSH", "DHAVAN KHERA", "DHARNA MAHAJAN",
+        "DIKSHA", "DILPREET SINGH", "DIVJEET", "GAGANDEEP SINGH", "GARV MAHAJAN", "GOVIND PAL", "GURBIR SINGH", "GURLEEN SINGH", "GURMANPREET KAUR",
+        "GURMEET KAUR", "HARJEET SINGH", "HARMANJOT SINGH", "HARMANPREET KAUR", "HARMEET SINGH SETHI", "HARMOHIT PREET SINGH", "HARNOOR SINGH",
+        "HARPREET SINGH", "HARSIMRANJIT SINGH", "HIMANI", "JASHANPREET SINGH", "JASKARAN SINGH", "JASLEEN KAUR", "JASMAN KAUR", "KANWARDEEP SINGH",
+        "KARANDEEP SINGH", "KARMANPAL SINGH", "KHUSHVEER KAUR", "KOMAL", "KAPIL", "KRISHNA", "KULVANSHPREET SINGH", "MANCHUR SHARMA", "MANDEEP SINGH",
+        "MANISH", "MANKIRAT SINGH", "MANKIRAT SINGH", "MANSI", "MANSIRAT KAUR", "MANVEER KAUR", "MOHIT", "NAMAN", "NAMAN SINGH", "NEHA DEVI", 
+        "NIRBHAY KAUR", "NIRMAL SINGH", "NISHCHAL SINGH", "NITIMA RANI", "NOORDEEP SINGH", "OASIS", "PARMINDER SINGH", "PARTH SETHI", "PRABHJEET SINGH", 
+        "PRABHJOT", "PRABHJOT SINGH", "PRABHSIMRAN SINGH", "PRIYANJALI", "RAJNEESH", "RAHUL BHUTTAR", "RANVEER SINGH NAGI", "RIDHIMA KAUR", "RITIK",
+        "ROOPAMPREET KAUR", "SADHANA", "SANDEEP KAUR", "SEHAJPREET KAUR", "SHARANJOT KAUR", "SHIVAM KUMAR", "SHIVIKA VERMA", "SHUBHAM KUMAR", 
+        "SHUBHKIRATPAL SINGH", "SIMARJIT SINGH", "SIMRANJIT KAUR", "SOHAM BAWA", "SUKHJIT KAUR", "SUKMANI SHARMA", "SUKHMANPREET KAUR", "SUNAINA DEVI",
+        "SUNDEEP KAUR", "SURPREET SINGH S", "SWASTIK", "TANISH", "TEJAS THAKUR", "TEJINDER SINGH", "USTATCHHAPRA", "VANSHIKA VERMA", "YUDHVIR SINGH", "YUVRAJ SINGH"]
     ]
   }
 
 };
+
 
 
