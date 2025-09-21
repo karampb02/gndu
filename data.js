@@ -1,7 +1,7 @@
 const attendanceData = {
     'A': {
         title: "Section A",
-        password: "@Asection",
+        password: "@@@",
         themeColor: "blue",
         students: [
             "AARUSHI SETHI", "ABHAY SINGH", "ABHI VERMA", "AKARSHDEEP SINGH", "AKASHDEEP SINGH", "AMANAT SHARMA",
@@ -75,7 +75,7 @@ const attendanceData = {
     password: "@AIRsec",
     themeColor: "purple",
     students: [
-       ["ANKITA RANI", "ANKUSH KAUR", "ARMAN SINGH", "ARMANPREET SINGH", "ARSHDEEP SINGH", "ARSHNOOR KAUR", "ARVIND KAUR", "ARYAN SHARMA",
+       "ANKITA RANI", "ANKUSH KAUR", "ARMAN SINGH", "ARMANPREET SINGH", "ARSHDEEP SINGH", "ARSHNOOR KAUR", "ARVIND KAUR", "ARYAN SHARMA",
         "BHAVYA GOYAL", "CHANDEEP SINGH", "CHANDEEP SINGH", "CHITSIMRAN KAUR", "DAMANPREET KOR", "DEVANSH", "DHAVAN KHERA", "DHARNA MAHAJAN",
         "DIKSHA", "DILPREET SINGH", "DIVJEET", "GAGANDEEP SINGH", "GARV MAHAJAN", "GOVIND PAL", "GURBIR SINGH", "GURLEEN SINGH", "GURMANPREET KAUR",
         "GURMEET KAUR", "HARJEET SINGH", "HARMANJOT SINGH", "HARMANPREET KAUR", "HARMEET SINGH SETHI", "HARMOHIT PREET SINGH", "HARNOOR SINGH",
@@ -91,6 +91,7 @@ const attendanceData = {
   }
 
 };
+
 
 
 
