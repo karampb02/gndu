@@ -99,7 +99,7 @@ const attendanceData = {
     },
     'AiMlBt': {
         title: "B.Tech AIML",
-        password: "@AiMlsec",
+        password: "@Aisec",
         themeColor: "blue",
         students: ["ADITYA KUMAR", "ADITYA PARTAP SINGH", "AKALSIFAT KAUR", "ARNAV BHANDARI", "ARSHDEEP SINGH", "ARYAN SHARMA",
             "BHAVISHYA", "CHETANYA SHARMA", "DRISHTI SHARMA", "EKAMJOT KAUR", "GAGANDEEP SAHOTRA", "GURJEET SINGH", "GURNOOR SINGH",
@@ -112,8 +112,8 @@ const attendanceData = {
             "VANSH CHOUDHARY", "VANSH GUPTA", "VANYA AHUJA", "VIDHI BANSAL", "YUVRAJ SINGH"]
     },
     'AiMlMt': {
-        title: "M.Tech AIML",
-        password: "@AiMlsec",
+        title: "M.Tech CSE",
+        password: "@Mtsec",
         themeColor: "teal",
         students: ["AAMANA", "ADITI SHARMA", "ANMOLPREET", "ARSHNOOR KAUR", "BALDEEP SINGH", "BNEET KAUR", "DAISY SHARMA",
             "EKAMJOT KAUR", "HARDILPREET KAUR", "HARJOT SINGH", "HARSIMRAT SUMMAN", "HITAKSHI", "JASMINE KAUR",
@@ -125,6 +125,7 @@ const attendanceData = {
     }
 
 };
+
 
 
 
