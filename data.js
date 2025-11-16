@@ -7,11 +7,12 @@
 // },
 
 const attendanceData = {
-    
+
     'A': {
         title: "B.Tech CSE A",
         password: "@@@",
         themeColor: "blue",
+        creator: "Karamjit Singh & Avnoor Singh Bal",
         students: [
             "AARUSHI SETHI", "ABHAY SINGH", "ABHI VERMA", "AKARSHDEEP SINGH", "AKASHDEEP SINGH", "AMANAT SHARMA",
             "AMANDEEP KAUR", "AMRIK SINGH", "ANANYA SINGLA", "ANGEL GUPTA", "ANIKET", "ANKIT KUMAR",
@@ -40,6 +41,7 @@ const attendanceData = {
         title: "B.Tech CSE B",
         password: "@Bsec",
         themeColor: "teal",
+        creator: "Karamjit Singh & Avnoor Singh Bal",
         students: [
             "LAKSHDEEP SINGH", "MALHAR ARORA", "MANASVI", "MANJOT KAUR", "MANJOT SINGH", "MANPAVAN KAUR", "MANPREET KUMAR",
             "MANRAJDEEP SINGH", "MANTHAN ATTIRI", "MANTHAN SHARMA", "MEHAK GUPTA", "MEHAK PADWAL", "MEHAKDEEP KAUR",
@@ -64,6 +66,7 @@ const attendanceData = {
         title: "B.Tech CE",
         password: "@CEsec",
         themeColor: "green",
+        creator: "Karamjit Singh & Avnoor Singh Bal",
         students: [
             "Aditya Sharma", "Agamdeep Singh", "Agampal Singh", "Akarshak Rajput", "Amuldeep Kaur", "Anchaldeep Kaur",
             "Anjodh Singh", "Artaj Singh Dhillon", "Bhavishya Sharma", "Bhumi", "Danishpreet Singh", "Dhruv Puri",
@@ -78,10 +81,11 @@ const attendanceData = {
             "Vaibhav Nanda", "Vibhav Sharma", "Yashika", "Yuvraj Sharma", "Srishti", "Gursidakeep Singh", "Parth Sareen",
             "Hargun Singh", "Janvi", "Guransh Singh"]
     },
-    'AiR': {
-        title: "B.Tech AI&R",
+    'AiRMt': {
+        title: "M.Tech AI&R",
         password: "@AIRsec",
         themeColor: "purple",
+        creator: "Karamjit Singh & Avnoor Singh Bal",
         students: [
             "ANKITA RANI", "ANKUSH KAUR", "ARMAN SINGH", "ARMANPREET SINGH", "ARSHDEEP SINGH", "ARSHNOOR KAUR", "ARVIND KAUR", "ARYAN SHARMA",
             "BHAVYA GOYAL", "CHANDEEP SINGH", "CHANDEEP SINGH", "CHITSIMRAN KAUR", "DAMANPREET KOR", "DEVANSH", "DHAVAN KHERA", "DHARNA MAHAJAN",
@@ -101,6 +105,7 @@ const attendanceData = {
         title: "B.Tech AIML",
         password: "@Aisec",
         themeColor: "blue",
+        creator: "Karamjit Singh & Avnoor Singh Bal",
         students: ["ADITYA KUMAR", "ADITYA PARTAP SINGH", "AKALSIFAT KAUR", "ARNAV BHANDARI", "ARSHDEEP SINGH", "ARYAN SHARMA",
             "BHAVISHYA", "CHETANYA SHARMA", "DRISHTI SHARMA", "EKAMJOT KAUR", "GAGANDEEP SAHOTRA", "GURJEET SINGH", "GURNOOR SINGH",
             "HARJOT SINGH", "HARKIRAT KAUR", "HARKIRAT SINGH", "HARLEEN KAUR", "HARSHDEEP SINGH", "HARSHIT", "HARSIMRAN KAUR",
@@ -112,9 +117,10 @@ const attendanceData = {
             "VANSH CHOUDHARY", "VANSH GUPTA", "VANYA AHUJA", "VIDHI BANSAL", "YUVRAJ SINGH"]
     },
     'AiMlMt': {
-        title: "M.Tech CSE",
+        title: "M.Tech AIML(FYIP)",
         password: "@Mtsec",
         themeColor: "teal",
+        creator: "Karamjit Singh & Avnoor Singh Bal",
         students: ["AAMANA", "ADITI SHARMA", "ANMOLPREET", "ARSHNOOR KAUR", "BALDEEP SINGH", "BNEET KAUR", "DAISY SHARMA",
             "EKAMJOT KAUR", "HARDILPREET KAUR", "HARJOT SINGH", "HARSIMRAT SUMMAN", "HITAKSHI", "JASMINE KAUR",
             "KARAN CHOUDHARY", "KASHISH", "KASHVI TANEJA", "KHUSHBOO", "KHUSHI MAHAJAN", "KHUSHI TALWAR", "KRISHNA SHARMA",
@@ -122,6 +128,22 @@ const attendanceData = {
             "MUSKAAN KAUR", "PARMEET SINGH", "PRATHAM", "RISHIKA SINGH", "SAKSHAM MANGOTRA", "SAMRIDHI", "SEEYA SHARMA",
             "SIFATJOT SINGH", "SUMIT KUMAR", "USTATDEEP SINGH", "VAIBHAV MEHRA", "VANSH ARORA", "VEEBHUTI MAHAJAN",
             "ZORAVAR SINGH"]
+    },
+    'AiRBt': {
+        title: "B.Tech AI&R",
+        password: "@AiRsec",
+        themeColor: "green",
+        creator: "Karamjit Singh & Gurbani Kaur",
+        students: ["AAYUSHI MAHAJAN", "ADITYA KUMAR", "AGAM BHATIA", "AKSHDEEP KAUR", "AMIROSE", "AMREEN KAUR",
+            "ANJANA KASHYAP", "ANKIT KUMAR", "ANSH ARORA", "ARLEEN", "ARSHDEEP KAUR", "ARSHDEEP SINGH", "ARSHIT THAKUR",
+            "ARSHPREET KAUR", "ASHISH", "ASHMEET SINGH", "AVNEET KAUR GILL", "BHAVIKA JOHAR", "BHAWARDEEP SINGH",
+            "DEV GROVER", "DIVYANSH", "GAYATRI SHARMA", "GURBANI KAUR", "GURKIRAT SINGH", "GURLEEN KAUR", "GURSIDAKDEEP SINGH",
+            "HARBIR SINGH", "HARJOT SINGH", "HARJOT SINGH", "HARKIRAT SINGH", "HARMANDEEP SINGH", "HARMANPREET KAUR",
+            "IRIESH SHARMA", "ISHMEET SINGH", "ISHNOOR SINGH", "ISHTI", "JASKARAN THAPAR", "KARANDEEP KAUR",
+            "KARTIK", "KAVISH KUMAR NOOR", "KRISHNA", "KRISHNA DHIR", "LAKSHDEEP SAINI", "LOVEJOT TANDON",
+            "MANDEEP KAUR", "MANIYA NARULA", "MANMEET SINGH", "MANRAJ SINGH RANDHAWA", "MANREET KAUR", "MANROOP SINGH",
+            "MEHAKDEEP KAUR", "MEHTAB BARPAGA", "MOHIN BHAGAT", "MOONPARI KAUR", "NANDIKA ARORA", "NIRJALA",
+            "NIYATI SETH", "PALAKPREET KAUR", "PARAS BAWA", "PAWANVIR SINGH", "PAYAL SALARIA", "PIYUSH"]
     }
 
 };

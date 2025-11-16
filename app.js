@@ -65,6 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function populateTable() {
+        document.getElementById('watermark').textContent = `Created by: ${currentSectionData.creator}`;
         const studentsRaw = currentSectionData.students;
         // Handle duplicate names by adding a counter
         const nameCount = {};
@@ -213,7 +214,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Footer Watermark
         doc.setTextColor(150, 150, 150);
         doc.setFontSize(8);
-        const watermarkText = "Created by: Karamjit Singh & Avnoor Singh Bal";
+        const watermarkText = `Created by: ${currentSectionData.creator}`;
         const textWidth = doc.getTextWidth(watermarkText);
         doc.text(watermarkText, pageWidth - textWidth - 10, pageHeight - 10);
 
