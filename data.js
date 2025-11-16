@@ -98,7 +98,7 @@ const attendanceData = {
             "PRABHJOT", "PRABHJOT SINGH", "PRABHSIMRAN SINGH", "PRIYANJALI", "RAJNEESH", "RAHUL BHUTTAR", "RANVEER SINGH NAGI", "RIDHIMA KAUR", "RITIK",
             "ROOPAMPREET KAUR", "SADHANA", "SANDEEP KAUR", "SEHAJPREET KAUR", "SHARANJOT KAUR", "SHIVAM KUMAR", "SHIVIKA VERMA", "SHUBHAM KUMAR",
             "SHUBHKIRATPAL SINGH", "SIMARJIT SINGH", "SIMRANJIT KAUR", "SOHAM BAWA", "SUKHJIT KAUR", "SUKMANI SHARMA", "SUKHMANPREET KAUR", "SUNAINA DEVI",
-            "SUNDEEP KAUR", "SURPREET SINGH S", "SWASTIK", "TANISH", "TEJAS THAKUR", "TEJINDER SINGH", "USTATCHHAPRA", "VANSHIKA VERMA", "YUDHVIR SINGH", "YUVRAJ SINGH"
+            "SUNDEEP KAUR", "SURPREET SINGH S", "SWASTIK", "TANISH", "TEJAS THAKUR", "TEJINDER SINGH", "USTAT CHHAPRA", "VANSHIKA VERMA", "YUDHVIR SINGH", "YUVRAJ SINGH"
         ]
     },
     'AiMlBt': {
@@ -117,7 +117,7 @@ const attendanceData = {
             "VANSH CHOUDHARY", "VANSH GUPTA", "VANYA AHUJA", "VIDHI BANSAL", "YUVRAJ SINGH"]
     },
     'AiMlMt': {
-        title: "M.Tech AIML(FYIP)",
+        title: "M.Tech CSE(FYIP)",
         password: "@Mtsec",
         themeColor: "teal",
         creator: "Karamjit Singh & Avnoor Singh Bal",
@@ -131,7 +131,7 @@ const attendanceData = {
     },
     'AiRBt': {
         title: "B.Tech AI&R",
-        password: "@AiRsec",
+        password: "@AIRsec",
         themeColor: "green",
         creator: "Karamjit Singh & Gurbani Kaur",
         students: ["AAYUSHI MAHAJAN", "ADITYA KUMAR", "AGAM BHATIA", "AKSHDEEP KAUR", "AMIROSE", "AMREEN KAUR",
@@ -147,6 +147,7 @@ const attendanceData = {
     }
 
 };
+
 
 
 
