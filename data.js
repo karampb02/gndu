@@ -79,7 +79,7 @@ const attendanceData = {
             "Hargun Singh", "Janvi", "Guransh Singh"]
     },
     'AiR': {
-        title: "B.Tech AI&R",
+        title: "M.Tech AI&R",
         password: "@AIRsec",
         themeColor: "purple",
         students: [
@@ -125,6 +125,7 @@ const attendanceData = {
     }
 
 };
+
 
 
 
