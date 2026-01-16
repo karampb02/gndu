@@ -145,6 +145,50 @@ const attendanceData = {
             "MEHAKDEEP KAUR", "MEHTAB BARPAGA", "MOHIN BHAGAT", "MOONPARI KAUR", "NANDIKA ARORA", "NIRJALA",
             "NIYATI SETH", "PALAKPREET KAUR", "PARAS BAWA", "PAWANVIR SINGH", "PAYAL SALARIA", "PIYUSH"]
     }
+    ,
+    'GNM': {
+        title: "GNM",
+        password: "@GNMsec",
+        themeColor: "purple",
+        creator: "Karamjit Singh & Avnoor Singh Bal",
+        students: [
+            "Komalpreet Kaur", "Mansi Bhatia", "Thamanpreet Kaur", "Ajay Kumar", "Jovanpreet Kaur", "Jamna",
+            "Manreet Kaur", "Varshika", "Pooja", "Hardeep Kaur", "Iobanpreet Kaur", "Gagandeep Kaur", "Harpreet Kaur",
+            "Jaspreet Kaur", "Navneet Kaur", "Navpreet Kaur", "Ridhima", "Bhupinderjeet Singh", "Gagandeep Kaur",
+            "Amandeep Kaur", "Ronak", "Nikit Sharma", "Taniya Joshi", "Amanpreet Kaur", "Kashish", "Sukhmanpreet Kaur",
+            "Harkiratpal Singh", "Avneet Kaur", "Sanjana Bhardwaj", "Komalpreet Kaur", "Aanchal Chauhan", "Harminder Kaur",
+            "Samarpreet Kaur", "Harneet Kaur", "Taranjeet Kaur", "Sakshi Sharma", "Cherraspreet Singh", "Simranjeet Kaur",
+            "Jaspreet Singh", "Khushdeep Kaur", "Gurmehak Bajwa", "Gurnoor Kaur", "Neha", "Prabhkirat Kaur", "Shyam Sundar",
+            "Tarun", "Raj Biswas"
+        ]
+    }
+    ,
+    'A2': {
+        title: "B.Tech CSE A 2",
+        password: "@A2sec",
+        themeColor: "blue",
+        creator: "Karamjit Singh & Avnoor Singh Bal",
+        students: [
+            "KRISH NAYYAR", "AYUSH RAJ", "ARNAV CHANDEL", "ANMOLPREET KAUR", "ISHAN SEHGAL", "DEVANG", "DIVYA", "BHAUMIK",
+            "ARCHIE DHIR", "JAGWINDER SINGH", "KARSIMRAN SINGH", "GURSHAN SINGH", "CHAKSHIKA CHAWLA", "ISHMEET SINGH",
+            "GURJASHAN SINGH", "KRISH GUMBER", "BISHAV HANS", "DIVJOT SINGH", "JASKARANJEET SINGH", "ARMAANDEEP SINGH",
+            "KRISHAN CHOPRA", "GARIMA TRIKHA", "KHUSHPREET SINGH", "JATIN BERI", "KHUSHAAN LAL", "KIRT PAUL", "ANKIT KUMAR",
+            "HARSHIL GUPTA", "GOUTAM KUMAR", "ARSHDEEP SINGH", "GURSEERAT KAUR", "BIRJOT KAUR", "HAETAL KATARIA", "ASHIMA",
+            "ANGEL GUPTA", "BHAVYA", "CHAHAT", "ATHARV KAUL", "GURNOOR SINGH", "HARSHIT MOHAN SHARMA", "KRISH BHAGAT",
+            "CHARU MALHOTRA", "KASHIKA", "BHAKTI GUPTA", "DIVJOT SINGH", "GURPREET KAUR", "HARANSH SINGH", "DHRUV PATHANIA",
+            "CHAUDHARY ASHUTOSH KUMAR", "KHUSHI MEHTA", "JITISHA MONGA", "HARSHIL GUPTA", "AKARSHDEEP SINGH", "DEEPALI LUTHRA",
+            "HARSIDAK SINGH", "KISHNA MONGA", "AVZ SHARMA", "GURNOOR SINGH", "ANSH AHLAWAT", "ABHAY SINGH", "BARINDERPAL SINGH",
+            "KOMALPREET KAUR", "HARGUN DEEP SINGH", "DEEPIKA", "GURNOOR KAUR", "DINKAR MITTAL", "KAVYA ARORA", "KRITIKA MEHTA",
+            "KESHAV PURI", "ARMAAN DEORA", "KRISHI SONDHI", "HARNOOR KAUR", "HARSHIT MALHOTRA", "JASDEEP KAUR", "JAGJIT SINGH",
+            "ARIHANT SHARMA", "KUSHAGRAH JAIN", "HARNEET KAUR", "DILJOT KAUR", "AKASHDEEP SINGH", "AMRIK SINGH", "HARWINDER SINGH",
+            "GURSAJ SINGH", "GURMEET SINGH", "KRISH KUMAR", "HARKIRAT SINGH RIAR", "DEVAM SAGGU", "ANANYA SINGLA", "HARJAP SINGH",
+            "JASLEEN KAUR", "JASMIN KAUR SANDHU", "ANMOLDEEP KAUR", "GURANGAD SINGH", "ABHI VERMA", "GURSIMRAN SINGH",
+            "KARAMJIT SINGH", "ISHMEET KAUR", "JAHNVI UCHARIA", "JASHANPREET SINGH", "AVNOOR SINGH BAL", "ANIKET",
+            "HARSHPREET KAUR", "HARMANJOT SINGH", "JASPREET KAUR", "ARYAN RAJ", "ANUSHKA", "KRISHNA", "GARV SEHGAL",
+            "DIVYANSH", "JASMINE KAUR", "ISHITA", "AARUSHI SETHI", "KUNAL", "ARYANSH", "JASKIRAT KAUR", "JAHNAVI",
+            "BHAVYA SHARMA", "GURANSHPREET SINGH", "KARAN SINGH", "AMANDEEP KAUR", "JAHIRUL ISLAM JOY"
+        ]
+    }
 
 };
 
